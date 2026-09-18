@@ -218,5 +218,3 @@ This provides a foundation for developing scalable and maintainable automotive e
 **Adham Muhammed**
 
 Embedded Software Engineer
-
-Interested in Embedded Software, Automotive Systems, AUTOSAR, and Real-Time Systems.
